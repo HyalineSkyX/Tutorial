@@ -1,0 +1,42 @@
+[
+    {
+        "code": "A公司",
+        "emoji": "A公司",
+        "unicode": "U+1F1E6 U+1F1E9",
+        "name": "A公司",
+        "title": "flag for Andorra",
+        "dialCode": "+376"
+    },
+    {
+        "code": "B公司",
+        "emoji": "B公司",
+        "unicode": "U+1F1E6 U+1F1EA",
+        "name": "B公司",
+        "title": "flag for United Arab Emirates",
+        "dialCode": "+971"
+    },
+    {
+        "code": "C公司",
+        "emoji": "C公司",
+        "unicode": "U+1F1E6 U+1F1EB",
+        "name": "C公司",
+        "title": "flag for Afghanistan",
+        "dialCode": "+93"
+    },
+    {
+        "code": "D公司",
+        "emoji": "D公司",
+        "unicode": "U+1F1E6 U+1F1EC",
+        "name": "D公司",
+        "title": "flag for Antigua and Barbuda",
+        "dialCode": "+1268"
+    },
+    {
+        "code": "E公司",
+        "emoji": "E公司",
+        "unicode": "U+1F1E6 U+1F1EE",
+        "name": "E公司",
+        "title": "flag for Anguilla",
+        "dialCode": "+1 264"
+    }
+]
